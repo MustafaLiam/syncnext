@@ -9,12 +9,13 @@
         "api": "https://www.heimuer.tv/api.php/provide/vod/at/xml"
     },
     {
-        "id": "new-id-1",
+        "id": "db335b83-39a7-4f41-af9c-d2bf59d6b821",
         "Top": true,
-        "note": "高质量资源，无广告",
+        "note": "海外 IP，插入式廣告",
+        "GEO": "Non-China",
         "Search": true,
-        "name": "海外看",
-        "api": "https://haiwaikan.tv/api.php/provide/vod/at/xml"
+        "name": "海外看資源",
+        "api": "https://haiwaikan.com/api.php/provide/vod/at/xml"
     },
     {
         "id": "new-id-2",
