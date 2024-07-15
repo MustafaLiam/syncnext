@@ -15,7 +15,7 @@
         "GEO": "Non-China",
         "Search": true,
         "name": "海外看資源",
-        "api": "https://haiwaikan.com/api.php/provide/vod/at/xml"
+        "api": "https://haiwaikan.com/"
     },
     {
         "id": "new-id-2",
