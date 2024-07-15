@@ -1,0 +1,27 @@
+[
+    {
+        "id": "aff75af7-4b65-4ce5-b852-e1d8d07bb864",
+        "Top": true,
+        "Priority": 500005,
+        "note": "1080P，無廣告",
+        "Search": true,
+        "name": "黑木耳",
+        "api": "https://www.heimuer.tv/api.php/provide/vod/at/xml"
+    },
+    {
+        "id": "new-id-1",
+        "Top": true,
+        "note": "高质量资源，无广告",
+        "Search": true,
+        "name": "海外看",
+        "api": "https://haiwaikan.tv/api.php/provide/vod/at/xml"
+    },
+    {
+        "id": "new-id-2",
+        "Top": true,
+        "note": "大量高清影视资源",
+        "Search": true,
+        "name": "新欧乐影院",
+        "api": "https://www.olevod.com/api.php/provide/vod/at/xml"
+    }
+]
