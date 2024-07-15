@@ -25,14 +25,5 @@
         "Search": true,
         "name": "华人直播",
         "api": "https://huaren.live/api.php/provide/vod/at/xml"
-    },
-    {
-        "id": "4762c94c-94bd-47a1-a903-a93431c89165",
-        "Top": true,
-        "note": "海外剧、综艺、动漫",
-        "Search": true,
-        "title": "廠長資源",
-        "name": "SyncnextCZSPP",
-        "api": "Syncnext://CZSPP"
     }
 ]
