@@ -24,5 +24,14 @@
         "Search": true,
         "name": "新欧乐影院",
         "api": "https://www.olevod.com/api.php/provide/vod/at/xml"
+    },
+    {
+        "id": "d76326d5-69c2-4dce-a86c-50bbdd478000",
+        "Top": true,
+        "note": "海量動漫",
+        "Search": true,
+        "title": "AGE 動漫",
+        "name": "SyncnextAGE",
+        "api": "Syncnext://AGE"
     }
 ]
