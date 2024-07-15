@@ -25,5 +25,5 @@
         "Search": true,
         "name": "华人直播",
         "api": "https://huaren.live/api.php/provide/vod/at/xml"
-    },
+    }
 ]
